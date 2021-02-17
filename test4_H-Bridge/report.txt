@@ -1,0 +1,16 @@
+Info: Checking netlist symbol footprint "C1:/602D9DCF:Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm".
+Info: Checking netlist symbol footprint "C2:/602E69A4:Capacitor_THT:CP_Radial_D8.0mm_P5.00mm".
+Info: Checking netlist symbol footprint "D1:/602EDED8:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D2:/602F7EAB:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D3:/602F8FB5:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D4:/602FB1CE:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D5:/602F8202:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D6:/602FA446:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D7:/602F89E7:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "D8:/602FB613:Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp".
+Info: Checking netlist symbol footprint "J1:/602C8C5B:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J2:/602CA69F:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J3:/602DF300:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical_SMD_Pin1Left".
+Info: Checking netlist symbol footprint "J4:/602E323D:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J5:/602E3CBE:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "U1:/6034406B:Package_SO:TSSOP-16_4.4x5mm_P0.65mm".
